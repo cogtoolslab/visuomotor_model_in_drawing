@@ -9,3 +9,5 @@
     - Post_Tran: Shape error after transformation
     - Spatio_Error are in three columns: Translation, Rotation, and Scale
 - An output folder transformed_ncc is also generated to store visual transformed results
+
+Note: Look out for string mismatches in tracing category, e.g., between "this circle" vs. "circle" and "this square" vs. "square"
